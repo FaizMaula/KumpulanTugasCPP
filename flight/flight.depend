@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1701561121 source:c:\games\python\cpp\flight\main.cpp
+	"flight.h"
+
+1701535685 c:\games\python\cpp\flight\flight.h
+	<iostream>
+
+1701560974 source:c:\games\python\cpp\flight\flight.cpp
+	"flight.h"
+

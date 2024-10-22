@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1700354224 source:c:\games\python\cpp\tpmod10\main.cpp
+	"queue.h"
+
+1700353806 c:\games\python\cpp\tpmod10\queue.h
+	<iostream>
+
+1700353864 source:c:\games\python\cpp\tpmod10\queue.cpp
+	"queue.h"
+

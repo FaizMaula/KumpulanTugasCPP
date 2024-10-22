@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698893912 source:c:\games\python\cpp\cll\main.cpp
+	"CLL.h"
+
+1698893776 c:\games\python\cpp\cll\cll.h
+	<iostream>
+
+1698893888 source:c:\games\python\cpp\cll\cll.cpp
+	"CLL.h"
+

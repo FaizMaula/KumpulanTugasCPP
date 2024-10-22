@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698063171 source:c:\games\python\cpp\cllno2\main.cpp
+	"CLLno2.h"
+
+1698045749 c:\games\python\cpp\cllno2\cllno2.h
+	<iostream>
+
+1698060355 source:c:\games\python\cpp\cllno2\cllno2.cpp
+	"CLLno2.h"
+

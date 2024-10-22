@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1728984287 source:c:\games\python\cpp\sll\sll.cpp
+	"SLL.h"
+
+1696766004 c:\games\python\cpp\sll\sll.h
+	<iostream>
+
+1696765972 source:c:\games\python\cpp\sll\main.cpp
+	"SLL.h"
+

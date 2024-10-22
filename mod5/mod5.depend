@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697351270 source:c:\games\python\cpp\mod5\main.cpp
+	"mod5.h"
+
+1697264587 c:\games\python\cpp\mod5\mod5.h
+	<iostream>
+
+1697264629 source:c:\games\python\cpp\mod5\mod5.cpp
+	"mod5.h"
+

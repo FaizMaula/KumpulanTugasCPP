@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1702030628 source:c:\games\python\cpp\infix\main.cpp
+	"infixtopost.h"
+
+1700574184 source:c:\games\python\cpp\infix\infixtopost.cpp
+	"infixtopost.h"
+
+1700573815 c:\games\python\cpp\infix\infixtopost.h
+	<iostream>
+

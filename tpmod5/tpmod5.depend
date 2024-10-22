@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697350957 source:c:\games\python\cpp\tpmod5\main.cpp
+	"tpmod5.h"
+
+1697263934 c:\games\python\cpp\tpmod5\tpmod5.h
+	<iostream>
+
+1697251887 source:c:\games\python\cpp\tpmod5\tpmod5.cpp
+	"tpmod5.h"
+

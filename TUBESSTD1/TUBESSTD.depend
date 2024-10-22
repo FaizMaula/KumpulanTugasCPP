@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1702131534 source:c:\games\python\cpp\tubesstd\main.cpp
+	"STD.h"
+
+1702131392 c:\games\python\cpp\tubesstd\std.h
+	<iostream>
+
+1702131412 source:c:\games\python\cpp\tubesstd\tubesstd.cpp
+	"STD.h"
+
+1702178150 source:d:\semester 3\struktur data\tubesstd\tubesstd\main.cpp
+	"STD.h"
+
+1702175349 d:\semester 3\struktur data\tubesstd\tubesstd\std.h
+	<iostream>
+
+1702179244 source:d:\semester 3\struktur data\tubesstd\tubesstd\tubesstd.cpp
+	"STD.h"
+
+1702192971 source:c:\games\python\cpp\tubesstd1\main.cpp
+	"STD.h"
+
+1702192995 c:\games\python\cpp\tubesstd1\std.h
+	<iostream>
+	<stdlib.h>
+
+1702202540 source:c:\games\python\cpp\tubesstd1\tubesstd.cpp
+	"STD.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1700400006 source:c:\games\python\cpp\rakbuku\main.cpp
+	"rakbuku.h"
+
+1700399408 c:\games\python\cpp\rakbuku\rakbuku.h
+	<iostream>
+
+1700400427 source:c:\games\python\cpp\rakbuku\rakbuku.cpp
+	"rakbuku.h"
+

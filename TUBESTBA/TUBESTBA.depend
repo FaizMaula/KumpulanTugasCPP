@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716460744 source:c:\games\python\cpp\tubestba\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

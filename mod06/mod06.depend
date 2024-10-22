@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1697970123 source:d:\kuliah\struktur data\program\mod06\main.cpp
+	"mod06.h"
+
+1697967465 d:\kuliah\struktur data\program\mod06\mod06.h
+	<iostream>
+
+1697969773 source:d:\kuliah\struktur data\program\mod06\mod06.cpp
+	"mod06.h"
+
+1697979870 source:c:\games\python\cpp\mod06\main.cpp
+	"mod06.h"
+
+1697967465 c:\games\python\cpp\mod06\mod06.h
+	<iostream>
+
+1697979966 source:c:\games\python\cpp\mod06\mod06.cpp
+	"mod06.h"
+

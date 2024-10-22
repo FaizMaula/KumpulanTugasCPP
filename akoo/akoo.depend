@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1700764958 source:c:\games\python\cpp\akoo\main.cpp
+	<iostream>
+	<cmath>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1702829140 source:c:\games\python\cpp\graf\main.cpp
+	"graf.h"
+
+1702829127 c:\games\python\cpp\graf\graf.h
+	<iostream>
+
+1724124191 source:c:\games\python\cpp\graf\graf.cpp
+	"graf.h"
+	"ctype.h"
+

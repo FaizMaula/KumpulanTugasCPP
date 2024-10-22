@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697349252 source:c:\games\python\cpp\mod5tipe3\main.cpp
+	"mod5tipe3.h"
+
+1697349525 c:\games\python\cpp\mod5tipe3\mod5tipe3.h
+	<iostream>
+	<string>
+

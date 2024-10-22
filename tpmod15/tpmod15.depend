@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1703906916 source:c:\games\python\cpp\tpmod15\main.cpp
+	"tree.h"
+
+1703873207 c:\games\python\cpp\tpmod15\tree.h
+	<iostream>
+	<cstdio>
+
+1703895551 source:c:\games\python\cpp\tpmod15\tree.cpp
+	"tree.h"
+

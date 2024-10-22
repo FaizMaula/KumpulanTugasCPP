@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1701417862 source:c:\games\python\cpp\stackmodul\main.cpp
+	"stackmodul.h"
+
+1701416485 c:\games\python\cpp\stackmodul\stackmodul.h
+	<iostream>
+
+1701418279 source:c:\games\python\cpp\stackmodul\stackmodul.cpp
+	"stackmodul.h"
+

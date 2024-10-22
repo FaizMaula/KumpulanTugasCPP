@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696145737 source:c:\games\python\cpp\kerucut\kerucut.cpp
+	"kerucut.h"
+
+1696146003 source:c:\games\python\cpp\kerucut\main.cpp
+	"kerucut.h"
+
+1696146253 c:\games\python\cpp\kerucut\kerucut.h
+	<iostream>
+	<math.h>
+

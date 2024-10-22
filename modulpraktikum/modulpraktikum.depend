@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696165201 source:c:\games\python\cpp\modulpraktikum\adt.cpp
+	"adt.h"
+
+1696164939 c:\games\python\cpp\modulpraktikum\adt.h
+	<iostream>
+	<string>
+
+1696165219 source:c:\games\python\cpp\modulpraktikum\main.cpp
+	"adt.h"
+

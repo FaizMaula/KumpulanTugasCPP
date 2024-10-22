@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1698037136 source:c:\games\python\cpp\tugascll\main.cpp
+	"tugasCLL.h"
+
+1697971281 c:\games\python\cpp\tugascll\tugascll.h
+	<iostream>
+
+1698037775 source:c:\games\python\cpp\tugascll\tugascll.cpp
+	"tugasCLL.h"
+
+1698060666 source:c:\games\python\cpp\tugas 5_cll\tugascll\main.cpp
+	"tugasCLL.h"
+
+1698060553 c:\games\python\cpp\tugas 5_cll\tugascll\tugascll.h
+	<iostream>
+
+1698037775 source:c:\games\python\cpp\tugas 5_cll\tugascll\tugascll.cpp
+	"tugasCLL.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1696144600 source:c:\games\python\cpp\adtarip\main.cpp
+	<iostream>
+	"adt.h"
+
+1696144608 c:\games\python\cpp\adtarip\adt.h
+
+1696144618 source:c:\games\python\cpp\adtarip\adt.cpp
+	"adt.h"
+

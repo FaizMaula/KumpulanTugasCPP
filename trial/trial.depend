@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1696846836 source:c:\games\python\cpp\trial\main.cpp
+	"trial.h"
+
+1696846830 c:\games\python\cpp\trial\trial.h
+	<iostream>
+
+1696846855 source:c:\games\python\cpp\trial\trial.cpp
+	"trial.h"
+

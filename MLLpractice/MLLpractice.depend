@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1700831283 source:c:\games\python\cpp\mllpractice\main.cpp
+	"MLL.h"
+
+1700830143 c:\games\python\cpp\mllpractice\mll.h
+	<iostream>
+
+1700830874 source:c:\games\python\cpp\mllpractice\mll.cpp
+	"MLL.h"
+

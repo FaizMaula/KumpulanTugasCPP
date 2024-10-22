@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1701924234 source:c:\games\python\cpp\tugasmll\main.cpp
+	"tugasMLL.h"
+
+1701923891 c:\games\python\cpp\tugasmll\tugasmll.h
+	<iostream>
+
+1701924106 source:c:\games\python\cpp\tugasmll\tugasmll.cpp
+	"tugasMLL.h"
+

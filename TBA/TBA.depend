@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1718693374 source:c:\games\python\cpp\tba\tba.cpp
+	"TBA.h"
+
+1718691742 c:\games\python\cpp\tba\tba.h
+	<bits/stdc++.h>
+	<iostream>
+
+1718715180 source:c:\games\python\cpp\tba\main.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	<string>
+	"TBA.h"
+

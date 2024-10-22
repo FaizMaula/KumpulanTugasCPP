@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1699149371 source:c:\games\python\cpp\mod8\main.cpp
+	"mod8.h"
+
+1699149113 c:\games\python\cpp\mod8\mod8.h
+	<iostream>
+
+1699149356 source:c:\games\python\cpp\mod8\mod8.cpp
+	"mod8.h"
+

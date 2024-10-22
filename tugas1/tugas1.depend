@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1695287636 source:c:\games\python\cpp\tugas1\tugas1.cpp
+	"tugas1head.h"
+
+1695287521 c:\games\python\cpp\tugas1\tugas1head.h
+	<iostream>
+
